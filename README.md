@@ -1,5 +1,5 @@
 # Book Recommender System
-[Here is how it works]()
+[Here is how it works](https://drive.google.com/file/d/16Ve3M786Bxom_F10hm9b1e-18_-rKpZw/view?usp=sharing)
 
 ## Description
 An intelligent system that suggests book recommendations based on user preferences and interactions.
@@ -25,4 +25,5 @@ An intelligent system that suggests book recommendations based on user preferenc
 
 ## Appendix
 - [Deployed App](https://book-recommender-system-6th8zopnacfmbxrnqxa5hu.streamlit.app/)
+- [Presentation Slides](https://drive.google.com/file/d/16Ve3M786Bxom_F10hm9b1e-18_-rKpZw/view?usp=sharing)
 
